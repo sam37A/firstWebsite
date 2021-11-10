@@ -1,0 +1,70 @@
+
+
+body{
+                   
+    background-color:white; 
+    font-family:ariel;  
+    font-weight:bold;
+    color:black;
+  }
+
+  h4{
+
+    color:red;
+  }
+
+  #special-h4 {
+
+    color:blue;
+    font-weight:bold;
+
+
+  }
+
+
+  .box{
+
+    height:100px;
+    width:100px;
+    margin:20px;
+    border:1px solid black;
+    text-align:center;
+
+
+  }
+
+  .red{
+    background-color:red;
+
+  }
+.blue{
+    background-color:blue;
+}
+ .yellow{
+    background-color:yellow;
+ }
+
+ .green{
+    background-color:green;
+ }
+
+ .center{
+    margin:auto;
+    width:140px;
+
+
+ }
+
+
+ .inline{
+     
+    display:inline-block;
+    
+ }
+
+ .horizontal{
+
+  text-align:center;
+ }
+
+
